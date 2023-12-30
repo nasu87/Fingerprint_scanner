@@ -8,7 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 99vh;
     background: black;
 }
 .scan{
@@ -47,7 +47,6 @@ body{
     50%
     {
         height: 100%;
-
     }
 }
 
